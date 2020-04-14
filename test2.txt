@@ -1,1 +1,2 @@
 Second file test2.txt
+Second line in test2.txt
